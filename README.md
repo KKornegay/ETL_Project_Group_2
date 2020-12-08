@@ -7,10 +7,10 @@
 
 * For the scope of this project we were asked to extract, transform, and load several data sets on gun related violence into an SQL database, then perform analysis on the data. In order to complete this project we used the following:
     - Python
-    -Jupyter Notebook
-    -Pandas
-    -Sqlalchemy
-    -Matplotlib
+    - Jupyter Notebook
+    - Pandas
+    - Sqlalchemy
+    - Matplotlib
     
 * The resources for this data are located here:
   [Gun Violence Database](https://www.kaggle.com/gunviolencearchive/gun-violence-database)
