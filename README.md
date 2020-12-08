@@ -45,3 +45,9 @@ In the above tables it can be determined from the data that in both the injured 
 ![states killed](Images/states1.png)
 
 In the above graph we can see that Florida, Texas, California, Georgia, and Louisiana. All these states have varying gun laws. according to this article [Strictest gun laws by state](https://worldpopulationreview.com/state-rankings/strictest-gun-laws-by-state) California, New Jersey, Connecticut, New York, and Hawaii have the stricted gun laws in the US where as Kentucky, Missouri, Idaho, Wyoming, and Missippi have the weakest.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![states injured](Images/states2.png)
+
+This graph appears very similar to the total deaths graph however we see that Illinois now joins the top five. What is interesting is both these charts seem to contradict this article [States with weak gun laws suffer from the most gun violence](https://www.judiciary.senate.gov/press/dem/releases/states-with-weak-gun-laws-suffer-from-more-gun-violence#:~:text=A%20study%20by%20the%20Center,Connecticut%2C%20New%20Jersey%2C%20Maryland%2C)
