@@ -28,30 +28,4 @@ Once loaded into the SQL database another notebook called analysis.ipynb was use
 
 # Results
 
-<table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Officer Kills</th>
-<th title="Field #2">Mass Shooting Kills</th>
-<th title="Field #3">Accidental Deaths</th>
-</tr></thead>
-<tbody><tr>
-<td align="right">26</td>
-<td align="right">581</td>
-<td align="right">506</td>
-<td> </td>
-</tr>
-</tbody></table>
-
-
-
-<table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Officer Injured</th>
-<th title="Field #2">Mass Shooting Injuried</th>
-<th title="Field #3">Accidental Injured</th>
-</tr></thead>
-<tbody><tr>
-<td align="right">59</td>
-<td align="right">2029</td>
-<td align="right">17</td>
-<td> </td>
-</tr>
-</tbody></table>
+| Officer Kills | Mass Shooting Kills | Accidental Deaths |
