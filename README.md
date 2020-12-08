@@ -42,6 +42,7 @@ Once loaded into the SQL database another notebook called analysis.ipynb was use
 </tbody></table>
 
 
+
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Officer Injured</th>
 <th title="Field #2">Mass Shooting Injuried</th>
