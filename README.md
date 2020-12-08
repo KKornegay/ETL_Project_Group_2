@@ -28,4 +28,13 @@ Once loaded into the SQL database another notebook called analysis.ipynb was use
 
 # Results
 
-| Officer Kills | Mass Shooting Kills | Accidental Deaths |
+|Officer Kills|Mass Shooting Kills|Accidental Deaths|
+|-------------|-------------------|-----------------|
+|26           |581                |506              |
+
+
+|Officer Injured|Mass Shooting Injuried|Accidental Injured|
+|---------------|----------------------|------------------|
+|59             |2029                  |17                |
+
+
