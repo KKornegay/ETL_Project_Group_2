@@ -17,6 +17,10 @@
 
 
 # Process
-## ETL
+1. ETL
 
 After the data was retrieved from the source it was then loaded into multiple pandas dataframes in our etl.ipynb jupyter notebook. We then removed the columns that were unnecessary for our purposes. We then created tables to store this data in postgres SQL using the schema we created that can be seen in the schema.sql file in this project. The data was then loaded into the database using sqlsalchemy to create the connection and then load it. 
+
+2. Analysis
+
+Once loaded into the 
