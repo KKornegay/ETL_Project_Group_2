@@ -51,3 +51,22 @@ In the above graph we can see that Florida, Texas, California, Georgia, and Loui
 ![states injured](Images/states2.png)
 
 This graph appears very similar to the total deaths graph however we see that Illinois now joins the top five. What is interesting is both these charts seem to contradict this article [States with weak gun laws suffer from the most gun violence](https://www.judiciary.senate.gov/press/dem/releases/states-with-weak-gun-laws-suffer-from-more-gun-violence#:~:text=A%20study%20by%20the%20Center,Connecticut%2C%20New%20Jersey%2C%20Maryland%2C)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![months killed](Images/killed_by_month.png)
+
+In this graph we can see no real clear pattern or trend in relation of month to gun deaths.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+![months injured](Images/injured_by_month.png)
+
+
+In this graph it appears that gun injuries trend higher during the summer months and then seem to trend back down as it gets colder.
+
+
