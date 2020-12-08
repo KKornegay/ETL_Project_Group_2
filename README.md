@@ -40,3 +40,5 @@ Once loaded into the SQL database another notebook called analysis.ipynb was use
 
 In the above tables it can be determined from the data that in both the injured and killed categories Mass shootings has the high number of incidents. What is interesting however is that gun accident seem to result in a higher number of deaths than injuries.
 
+
+![states killed](Images/states1.png)
