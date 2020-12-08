@@ -23,4 +23,4 @@ After the data was retrieved from the source it was then loaded into multiple pa
 
 2. Analysis
 
-Once loaded into the 
+Once loaded into the SQL database another notebook called analysis.ipynb was used to perform the analysis. We used sqlalchemy to perform querys of the database and create two tables using pandas to compare the total deaths of gun violence due to officer involved shootings, mass shootings, and accidents, and we did the same to compare all of those that caused injuries as well. We then created two horizonal bar graphs using sqlalchemy, pandas, and matplotlib that compared overall gun injuries and overall gun killings by state. Last, We created line graphs using all the previous libararies to compare total gun injuries and total gun deaths per month throughout the year.
