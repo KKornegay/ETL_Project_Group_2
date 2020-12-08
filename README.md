@@ -70,3 +70,6 @@ In this graph we can see no real clear pattern or trend in relation of month to 
 In this graph it appears that gun injuries trend higher during the summer months and then seem to trend back down as it gets colder.
 
 
+# Limitations
+
+The limitations of this dataset is that is collected from media, law enforcement, government and commercial sources which are not neccessarily completely reliable. It is also collected over a time span of only 3 years (2014-2016) therefore is not up to date. 
